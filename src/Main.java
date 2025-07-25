@@ -15,5 +15,9 @@ public class Main {
         System.out.println("Branch 02");
 
         System.out.println("Branch 01.");
+
+        for (int i = 1; i <= 5; i++) {
+            // do something
+        }
     }
 }
